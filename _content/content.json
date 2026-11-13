@@ -1,0 +1,477 @@
+{
+  "site": {
+    "name": "Felicia Chuma",
+    "url": "https://YOUR-DOMAIN.com",
+    "email": "",
+    "linkedin": "",
+    "github": "",
+    "form_endpoint": "",
+    "tagline": "Data science student and community builder in Zimbabwe.",
+    "meta_title": "Felicia Chuma | Data Science and Analytics Portfolio",
+    "meta_description": "Portfolio of Felicia Chuma, an IT graduate studying data science at Midlands State University. Projects, community work and writing on data and technology.",
+    "footer_tag": "Open to internships, graduate roles and collaborations.",
+    "footer_note": "Data analytics, data science and IT support."
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "#top"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "label": "Community",
+      "href": "#community"
+    },
+    {
+      "label": "Media",
+      "href": "#media"
+    },
+    {
+      "label": "Blogs",
+      "href": "blogs/"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Data Analytics &nbsp;|&nbsp; Data Science &nbsp;|&nbsp; Technology Leadership",
+    "title": [
+      {
+        "text": "Felicia"
+      },
+      {
+        "text": "Chuma.",
+        "accent": true
+      }
+    ],
+    "tagline": "I work with data and build things with it.",
+    "intro": "I spent three years in IT support before moving into data science. Now I'm at Midlands State University, learning to work with data properly and building small projects along the way.",
+    "ctas": [
+      {
+        "label": "Explore My Work",
+        "href": "#work",
+        "ghost": false
+      },
+      {
+        "label": "Discover My Story",
+        "href": "#about",
+        "ghost": true
+      }
+    ],
+    "portrait": {
+      "src": "portrait",
+      "alt": "Felicia Chuma in a navy blazer against a light grey studio backdrop, with a calm, confident expression.",
+      "chip_bold": "Based in Zimbabwe",
+      "chip_text": "Data science student"
+    },
+    "marquee": "Data analytics · Data science · Python · Computer vision · Power BI · IT support · Community"
+  },
+  "identity": {
+    "label": "01 / Background",
+    "heading": "What I do.",
+    "lede": "I moved from IT support into data science. I work with data, build small tools, and help run a student community at Midlands State University.",
+    "pillars": [
+      {
+        "num": "01",
+        "title": "Data Analytics",
+        "text": "Cleaning, exploring and visualising data until it says something useful.",
+        "href": "#skills",
+        "go": "See the tools"
+      },
+      {
+        "num": "02",
+        "title": "Technology Innovation",
+        "text": "Building small prototypes, including a computer-vision tool for Zimbabwean Sign Language.",
+        "href": "#work",
+        "go": "See the work"
+      },
+      {
+        "num": "03",
+        "title": "Leadership",
+        "text": "President of the MSU chapter of Data Science Zimbabwe.",
+        "href": "#community",
+        "go": "See the community"
+      }
+    ]
+  },
+  "about": {
+    "label": "02 / About",
+    "heading": "A bit about me.",
+    "lede": "How I got here.",
+    "story_heading": "Hello, I'm Felicia.",
+    "story": [
+      "I'm studying data science at Midlands State University, after three years working in IT.",
+      "I started with a National Certificate and then a National Diploma in Information Technology at Gweru Polytechnic College. In 2024 I worked as an IT support intern at Midlands State University's Zvishavane campus, which meant hardware, software, networking and VoIP phone setup. It taught me to listen to what people actually describe, work through problems in order, and not stop until the thing works.",
+      "I moved into data science because I wanted to work with the information those systems hold, not just keep them running. I'm now in a Bachelor of Commerce in Data Science.",
+      "My main project is Vision-SL, a computer-vision prototype for Zimbabwean Sign Language. I'm also president of the MSU chapter of Data Science Zimbabwe, which is mostly about getting students in a room to learn together."
+    ]
+  },
+  "journey": {
+    "label": "Timeline",
+    "heading": "From IT to data.",
+    "lede": "A short record of how I got here.",
+    "steps": [
+      {
+        "when": "2022 to 2025",
+        "title": "Foundation in Information Technology",
+        "text": "I built my base through National Certificate and National Diploma qualifications in Information Technology, the diploma at Gweru Polytechnic College."
+      },
+      {
+        "when": "2024",
+        "title": "Practical IT support experience",
+        "text": "I worked as an IT support intern at Midlands State University's Zvishavane campus, where hardware, software, networking and VoIP phone setup were part of the job."
+      },
+      {
+        "when": "Now",
+        "title": "Starting the data science degree",
+        "text": "I began a Bachelor of Commerce in Data Science at Midlands State University, moving from keeping systems running to working with the data inside them."
+      },
+      {
+        "when": "Learning",
+        "title": "Python and analytical tools",
+        "text": "Python, C++, Excel and Power BI, along with Kaggle learning pathways, became my everyday toolkit."
+      },
+      {
+        "when": "Building",
+        "title": "Developing Vision-SL",
+        "text": "I turned a question about Zimbabwean Sign Language and scarce data into a working computer-vision prototype."
+      },
+      {
+        "when": "Leading",
+        "title": "Taking on student leadership",
+        "text": "I became president of the Midlands State University chapter of Data Science Zimbabwe."
+      },
+      {
+        "when": "2026",
+        "title": "Technology communities",
+        "text": "I joined the Young AI Leaders community and took part in Google Developer Groups DevFestZim 2026."
+      }
+    ]
+  },
+  "skills": {
+    "label": "Skills",
+    "heading": "What I work with.",
+    "groups": [
+      {
+        "title": "Programming",
+        "items": [
+          "Python",
+          "C++"
+        ]
+      },
+      {
+        "title": "Data Analytics",
+        "items": [
+          "Data cleaning",
+          "Exploratory data analysis",
+          "Data visualisation"
+        ]
+      },
+      {
+        "title": "Analytical Tools",
+        "items": [
+          "Excel",
+          "Power BI"
+        ]
+      },
+      {
+        "title": "Emerging Technical Areas",
+        "items": [
+          "Machine learning",
+          "Computer vision"
+        ]
+      },
+      {
+        "title": "IT Foundation",
+        "items": [
+          "Technical support",
+          "Hardware",
+          "Software",
+          "Networking",
+          "VoIP phones"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "label": "Education",
+    "heading": "Where I've studied.",
+    "items": [
+      {
+        "status": "In progress",
+        "title": "Bachelor of Commerce in Data Science",
+        "place": "Midlands State University"
+      },
+      {
+        "status": "",
+        "title": "National Diploma in Information Technology",
+        "place": "Gweru Polytechnic College, 2025"
+      },
+      {
+        "status": "",
+        "title": "National Certificate in Information Technology",
+        "place": "2022"
+      }
+    ]
+  },
+  "learning": {
+    "label": "Certifications",
+    "heading": "Courses and certificates.",
+    "lede": "Provider, date and a link are added as each one is confirmed.",
+    "items": [
+      {
+        "title": "Kaggle learning achievements",
+        "provider": "Kaggle",
+        "date": "",
+        "link": ""
+      },
+      {
+        "title": "Python learning pathways",
+        "provider": "Online courses",
+        "date": "",
+        "link": ""
+      },
+      {
+        "title": "Courses and workshops",
+        "provider": "Various providers",
+        "date": "",
+        "link": ""
+      },
+      {
+        "title": "Further certifications",
+        "provider": "Planned",
+        "date": "",
+        "link": ""
+      }
+    ]
+  },
+  "philosophy": {
+    "label": "Approach",
+    "quote": "I learn by building things, I ask a lot of questions, and I judge the work by whether it helps someone.",
+    "ctas": [
+      {
+        "label": "See what I've built",
+        "href": "#work",
+        "ghost": false
+      },
+      {
+        "label": "Get in touch",
+        "href": "#contact",
+        "ghost": true
+      }
+    ]
+  },
+  "work": {
+    "label": "03 / Work",
+    "heading": "Projects.",
+    "lede": "What I've built so far, and what I'm working on next.",
+    "flagship": {
+      "status": "Main project",
+      "title": "Vision-SL",
+      "lede": "An experimental computer-vision prototype exploring how Zimbabwean Sign Language signs can be introduced using as few as three example photographs.",
+      "tags": [
+        "Python",
+        "Computer vision",
+        "Few-example learning",
+        "Accessible technology"
+      ],
+      "problem_label": "Problem",
+      "problem_heading": "There isn't a dataset to start from.",
+      "problem": "There are very few public datasets of Zimbabwean Sign Language, which makes experimentation in this area difficult. Before anyone can test an idea, they first have to answer where the examples will come from.",
+      "objectives_label": "Goals",
+      "objectives_heading": "What I set out to do.",
+      "objectives": [
+        "Explore few-example learning approaches.",
+        "Experiment with computer vision.",
+        "Look into opportunities for accessible language technology.",
+        "Show how technology can address locally relevant problems."
+      ],
+      "process_label": "How I built it",
+      "process_heading": "From question to prototype.",
+      "process": [
+        "Problem identification",
+        "Research and exploration",
+        "Dataset and image preparation",
+        "Prototype development",
+        "Testing and experimentation",
+        "Evaluation and future improvements"
+      ],
+      "contribution_label": "My contribution",
+      "contribution_heading": "What I did.",
+      "contribution": [
+        "I conceptualised Vision-SL and developed the prototype in Python. The project was shaped by guidance from <strong>Ms Marandure</strong> and <strong>Mr Rwakonda</strong> at the Midlands State University National Language Institute, whose expertise in language kept the work grounded in how the language is actually learned.",
+        "The prototype was prepared for Enovate4Impact 2026 in the STEM Innovation stream."
+      ],
+      "evidence_label": "Evidence",
+      "evidence_heading": "Evidence.",
+      "evidence_lede": "These will be published as they are finished, along with a development roadmap.",
+      "evidence": [
+        {
+          "title": "Prototype screenshots",
+          "text": "Interface and recognition examples."
+        },
+        {
+          "title": "Demonstration video",
+          "text": "A walkthrough of Vision-SL in action."
+        },
+        {
+          "title": "Technical architecture",
+          "text": "How the prototype is put together."
+        },
+        {
+          "title": "Development photographs",
+          "text": "Behind the scenes of the build."
+        },
+        {
+          "title": "Testing results",
+          "text": "Evidence from experimentation."
+        },
+        {
+          "title": "Code repository",
+          "text": "Linked if publicly available."
+        }
+      ]
+    },
+    "more_label": "More projects",
+    "more_heading": "In progress.",
+    "projects": [],
+    "empty": "<strong>The next project is on its way</strong>Future projects appear here once they have been developed. Each one will show its category, technologies, problem, approach, results, media and links."
+  },
+  "community": {
+    "label": "04 / Community",
+    "heading": "Community work.",
+    "lede": "What I do outside coursework.",
+    "leadership_heading": "President, Data Science Zimbabwe",
+    "leadership_sub": "Midlands State University Chapter",
+    "leadership_text": "I lead the MSU chapter of Data Science Zimbabwe, working to build a community where students can learn, collaborate and find opportunities.",
+    "leadership_quote": "Most of this is about getting students in one room to learn from each other.",
+    "blocks": [
+      {
+        "label": "Young AI Leaders",
+        "heading": "Young AI Leaders.",
+        "text": "I'm a member of the Young AI Leaders community. As I take part in sessions, learn from others and collaborate, I'll document the experience and future contributions here."
+      },
+      {
+        "label": "Technology events",
+        "heading": "DevFestZim 2026",
+        "text": "I represented Midlands State University at Google Developer Groups DevFestZim 2026 and volunteered in the lead-up to the event. Attending sessions and meeting professionals showed me how much the local technology community has to offer."
+      }
+    ],
+    "timeline_label": "Community timeline",
+    "timeline_heading": "Timeline.",
+    "timeline_lede": "Leadership appointments, events, volunteering, programmes, workshops and collaborations.",
+    "timeline": [
+      {
+        "when": "Leadership",
+        "title": "President, Data Science Zimbabwe, Midlands State University Chapter",
+        "detail": "Leading the MSU chapter of Data Science Zimbabwe. Appointment details, initiatives and programmes will be added here as they are confirmed."
+      },
+      {
+        "when": "Community",
+        "title": "Member, Young AI Leaders community",
+        "detail": "Part of the Young AI Leaders community. Participation, learning opportunities and collaborations will be documented here as they occur."
+      },
+      {
+        "when": "2026",
+        "title": "Pre-DevFest volunteering",
+        "detail": "Volunteered in the lead-up to Google Developer Groups DevFestZim 2026."
+      },
+      {
+        "when": "2026",
+        "title": "Google Developer Groups DevFestZim 2026",
+        "detail": "Represented Midlands State University at DevFestZim 2026, attending sessions and meeting professionals across the technology community."
+      }
+    ],
+    "impact_label": "Impact",
+    "impact_heading": "Impact.",
+    "impact_lede": "Numbers are added once they can be confirmed.",
+    "metrics": [
+      "Students reached",
+      "Activities organised",
+      "Workshops delivered",
+      "Partnerships established",
+      "Projects initiated"
+    ]
+  },
+  "media": {
+    "label": "05 / Media",
+    "heading": "Photos and video.",
+    "lede": "Events, university life, leadership and project work.",
+    "featured_heading": "Graduation, 2026",
+    "featured_lede": "Graduation portrait.",
+    "featured": "graduation",
+    "gallery_label": "Gallery",
+    "gallery_heading": "Browse by collection.",
+    "collections": [
+      "Technology Events",
+      "Leadership and Community",
+      "Innovation and Projects",
+      "Academic Experiences",
+      "Professional Milestones"
+    ],
+    "items": [
+      {
+        "src": "graduation",
+        "width": 1400,
+        "height": 1998,
+        "collection": "Academic Experiences",
+        "title": "Graduation portrait",
+        "alt": "Black-and-white portrait of Felicia Chuma in a graduation gown and cap, one hand on the cap, smiling and looking down. Her stole reads Tech Queen 2026.",
+        "caption": "Graduation portrait, 2026",
+        "date": "2026"
+      },
+      {
+        "src": "portrait",
+        "width": 1400,
+        "height": 2036,
+        "collection": "Professional Milestones",
+        "title": "Professional portrait",
+        "alt": "Felicia Chuma in a navy blazer against a light grey studio backdrop, with a calm, confident expression.",
+        "caption": "Professional portrait",
+        "date": "2026"
+      }
+    ],
+    "videos_label": "Video",
+    "videos_heading": "Video.",
+    "videos_placeholder": {
+      "title": "Vision-SL demonstration",
+      "text": "Project presentations, event highlights, interviews and talks will appear here.",
+      "status": "Coming soon"
+    },
+    "press_label": "Press",
+    "press_heading": "Press.",
+    "press_empty": "<strong>Nothing listed yet</strong>Articles, interviews, speaker profiles, recognitions and external publications are listed here only when verified."
+  },
+  "blog": {
+    "label": "06 / Blog",
+    "heading": "Writing.",
+    "lede": "Notes on data, coursework and the projects I'm building. I write things up as I learn them.",
+    "empty": "No posts yet. I'm writing the first one.",
+    "url": "blogs/",
+    "feed_title": "Felicia Chuma: Writing"
+  },
+  "contact": {
+    "label": "07 / Contact",
+    "heading": "Get in touch.",
+    "lede": "If you have a role, a project or a question, send me a message.",
+    "quote": "I reply to everything I can.",
+    "interests": [
+      "Internship opportunities",
+      "Graduate opportunities",
+      "Data and technology projects",
+      "Innovation collaborations",
+      "Research opportunities",
+      "Speaking and community engagements",
+      "Sponsorship and partnerships"
+    ]
+  }
+}

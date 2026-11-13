@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_content/
+Disallow: /_tools/
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
